@@ -1,4 +1,4 @@
-English | [简体中文](./README_CN.md)
+please English | [简体中文](./README_CN.md)
 
 vConsole
 ===
